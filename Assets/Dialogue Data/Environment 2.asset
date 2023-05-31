@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cea669d3d11ce409c2cd38b005c822, type: 3}
+  m_Name: Environment 2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Player: N\xE3o estou no lugar correto"
+  - "Agora ou\xE7o mais baixo mas ainda sim \xE9 poss\xEDvel perceber que a maioria
+    s\xE3o gritos femininos e aquilo me persegue\u2026"
+  - "\u2026N\xE3o sei quem ela foi na minha vida mas sinto ser algu\xE9m importante,
+    principalmente que agora vendo essas fotos\t"
+  - "Mas aqui ainda n\xE3o \xE9 o lugar correto, n\xE3o vejo ningu\xE9m e os gritos
+    se tornam mais desesperados na minha mente\u2026\t"
+  - "Eu...Eu quero sair daqui!\t"

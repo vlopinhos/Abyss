@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cea669d3d11ce409c2cd38b005c822, type: 3}
+  m_Name: Prologue
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Player: \xC0s vezes algumas mem\xF3rias me v\xEAm \xE0 mente, mas n\xE3o consigo
+    formar elas definitivamente, n\xE3o sei de verdade o que s\xE3o...\r\n"
+  - "Terapeuta: \xC9 bom ver o seu desenvolvimento, as sess\xF5es t\xEAm tido um
+    bom desempenho, vejo uma melhora genu\xEDna do seu quadro de stress p\xF3s traum\xE1tico."
+  - "Agora que estamos lidando com o trauma diretamente, \xE9 esperado esses flashes
+    de mem\xF3ria. O que voc\xEA costuma lembrar? \r\n"
+  - "Player: Consigo ver que era alguma data em outubro, dois anos atr\xE1s, escuto
+    vozes...\r\n"
+  - "N\xE3o reconhe\xE7o onde estou, me vejo do lado de fora de algum lugar come\xE7ando
+    a ser destru\xEDdo e por mais que eu queira muito chegar perto por causa do barulho
+    e da fuma\xE7a que vem de dentro.\r\n"
+  - "Eu tenho muito medo, n\xE3o sei o que me espera\u2026\r\n"
+  - "Terapeuta: A sua mente tem sido um lugar muito escuro, e voc\xEA parece pequeno
+    demais para tudo que o cerca, seus medos s\xE3o como grandes monstros, em diferentes
+    formas pois s\xE3o criados por situa\xE7\xF5es diferentes."
+  - "E para que voc\xEA tenha melhor visualiza\xE7\xE3o das suas mem\xF3rias, precisamos
+    vencer elas aos poucos, come\xE7ando com esse monstro que te impede de reconhecer
+    o local que voc\xEA est\xE1.\r\n"

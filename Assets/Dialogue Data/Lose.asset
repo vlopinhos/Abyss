@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cea669d3d11ce409c2cd38b005c822, type: 3}
+  m_Name: Lose
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Player: A fuma\xE7a toma tudo, o fogo parece bem mais alto, n\xE3o consigo mais
+    respirar\u2026"
+  - "Ao fundo vejo a crian\xE7a mas o fogo tapa ela, n\xE3o ou\xE7o mais sua voz."
+  - "Na porta do que parece ser uma despensa, vejo uma mulher sentada, j\xE1 quase
+    desmaiando devido a fuma\xE7a, vejo ser a mesma da foto\u2026"
+  - "N\xE3o, n\xE3o, N\xC3O\u2026"
+  - "\xC9 Catarina, o meu amor e aquele \xE9 o\u2026"
+  - ...
+  - 'Terapeuta: Ei, ei, ei. volte.'
+  - "Voc\xEA passou por muitas coisas e talvez tenha lidado r\xE1pido demais, entrou
+    em crise e isso faz com que sua mente n\xE3o consiga se recuperar."
+  - "Mas ainda n\xE3o desistimos, precisamos continuar, sua melhora \xE9 not\xE1vel
+    mas com mais sess\xF5es podemos tentar de novo lidar com todos os seus monstros"
+  - "Continue persistindo, no final vamos batalhar juntos para recuperar a sua hist\xF3ria. "

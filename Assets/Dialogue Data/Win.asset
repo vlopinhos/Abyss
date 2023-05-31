@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cea669d3d11ce409c2cd38b005c822, type: 3}
+  m_Name: Win
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Terapeuta: O pior j\xE1 passou, voc\xEA fez aquilo que estamos te preparando
+    a muito tempo\u2026"
+  - Para lidar com o seu eu, com os seus sentimentos, com a sua culpa, o seu maior
+    monstro.
+  - "E voc\xEA conseguiu, voc\xEA foi capaz de vencer aquilo que tanto te atormentou
+    e te fez esquecer daquilo que mais importava na sua vida\u2026"
+  - "Quem te amava de verdade. Agora voc\xEA tem o seu perd\xE3o e suas mem\xF3rias."

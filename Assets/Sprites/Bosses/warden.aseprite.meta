@@ -1,0 +1,1723 @@
+fileFormatVersion: 2
+guid: 91f0db10805f80e4ab7d95bea051f71e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  multiSpriteImportData:
+  - name: warden_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 92
+      width: 8
+      height: 14
+    spriteID: 5fbadce9fbd6e33489ce30b8f67e785c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 92}
+  - name: warden_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 114
+      width: 8
+      height: 14
+    spriteID: 55a3caec0ba36474fa130736d5666746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 114}
+  - name: warden_Frame_2
+    originalName: 
+    pivot: {x: 0.6, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 26
+      width: 10
+      height: 14
+    spriteID: a63751d6e4eb9854faab9745a0c88b07
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 26}
+  - name: warden_Frame_3
+    originalName: 
+    pivot: {x: 0.6, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 48
+      width: 10
+      height: 14
+    spriteID: 6bc23dafbcdc7b449a8ae46bd992320f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 48}
+  - name: warden_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 136
+      width: 8
+      height: 14
+    spriteID: f4d60bf806cef1f4a8f1359de08165c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 136}
+  - name: warden_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 158
+      width: 8
+      height: 14
+    spriteID: fb9fe6dbdf8d7fb4dbe4bafc5115ab4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 158}
+  - name: warden_Frame_6
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 136
+      width: 7
+      height: 14
+    spriteID: 36a98b7c0af2ceb469b3a4e5ea80f659
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 136}
+  - name: warden_Frame_7
+    originalName: 
+    pivot: {x: 0.6666667, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 180
+      width: 6
+      height: 14
+    spriteID: 01c57b0508d6c244e8f38bae3b9fd158
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 180}
+  - name: warden_Frame_8
+    originalName: 
+    pivot: {x: 0.8, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 224
+      width: 5
+      height: 14
+    spriteID: 61194dfddcfe2ae4b8973a93117f5409
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 224}
+  - name: warden_Frame_9
+    originalName: 
+    pivot: {x: 1, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 39
+      width: 4
+      height: 14
+    spriteID: 927f89b7e19fb584cbeec36a04ae8b86
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 39}
+  - name: warden_Frame_10
+    originalName: 
+    pivot: {x: 1.3333334, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 39
+      width: 3
+      height: 14
+    spriteID: 7fc791b33f73a934f839fc1cf46e12c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 39}
+  - name: warden_Frame_11
+    originalName: 
+    pivot: {x: 2, y: -0.16666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 17
+      width: 2
+      height: 12
+    spriteID: ecc4d9fce6c4dc3438ff0b2402d5079b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 17}
+  - name: warden_Frame_12
+    originalName: 
+    pivot: {x: 4, y: -0.4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 246
+      width: 1
+      height: 5
+    spriteID: 85efea9a316f8f142a685d6c943195b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 246}
+  - name: warden_Frame_15
+    originalName: 
+    pivot: {x: -3, y: -0.2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 246
+      width: 1
+      height: 5
+    spriteID: 79edac32ab9294a439ee7a19e4c2cbfa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 246}
+  - name: warden_Frame_16
+    originalName: 
+    pivot: {x: -1, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 103
+      width: 2
+      height: 12
+    spriteID: 0529986c99af2ce4cb3a8bf3f409d15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 103}
+  - name: warden_Frame_17
+    originalName: 
+    pivot: {x: -0.33333334, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 83
+      width: 3
+      height: 12
+    spriteID: 9015cbcd6a8ef874589aa4f50ddaf04f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 83}
+  - name: warden_Frame_18
+    originalName: 
+    pivot: {x: 0, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 61
+      width: 4
+      height: 14
+    spriteID: 9927a6d8b554d1e4a8a7b906b354b1e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 61}
+  - name: warden_Frame_19
+    originalName: 
+    pivot: {x: 0.2, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 17
+      width: 5
+      height: 14
+    spriteID: 1c7fabf28ec0c4241a925bcee1bbbeb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 17}
+  - name: warden_Frame_20
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 202
+      width: 6
+      height: 14
+    spriteID: 14fdf0a189906c24aa969826a28721f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 202}
+  - name: warden_Frame_21
+    originalName: 
+    pivot: {x: 0.42857146, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 158
+      width: 7
+      height: 14
+    spriteID: 2844d7fc176b09e4aadeb618c3fbb50b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 158}
+  - name: warden_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 180
+      width: 8
+      height: 14
+    spriteID: 1a52699b32f239d4b8666b3f80e7bc8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 180}
+  - name: warden_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 202
+      width: 8
+      height: 14
+    spriteID: 693807006c1764548a225d0b9c15ec3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 202}
+  - name: warden_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 224
+      width: 8
+      height: 14
+    spriteID: 2418a333e7389d544b89d50f9403e8cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 224}
+  - name: warden_Frame_25
+    originalName: 
+    pivot: {x: 0.75, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 4
+      width: 8
+      height: 14
+    spriteID: 984689041ed8d144087bb3ab17f9d3a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 4}
+  - name: warden_Frame_26
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 26
+      width: 13
+      height: 14
+    spriteID: a3e7935e908a1bc4f9b9abcbd89b737d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 26}
+  - name: warden_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 92
+      width: 12
+      height: 14
+    spriteID: a3f3d800f6c3476459da0a0defb0298f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 92}
+  - name: warden_Frame_28
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 176
+      width: 11
+      height: 14
+    spriteID: 9742be4baaaa7304c8d68af247034eab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 176}
+  - name: warden_Frame_29
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 48
+      width: 13
+      height: 14
+    spriteID: c04fc6509437bdc4bbe0055de60f99bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 48}
+  - name: warden_Frame_30
+    originalName: 
+    pivot: {x: 0.4615385, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 70
+      width: 13
+      height: 14
+    spriteID: 4f75ddb36968fee43a78b2e249c4749b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 70}
+  - name: warden_Frame_31
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 198
+      width: 11
+      height: 14
+    spriteID: bbe24a447990c70458d7066116443674
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 198}
+  - name: warden_Frame_32
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 220
+      width: 11
+      height: 14
+    spriteID: 487604141fa946441a0f5bf062b57862
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 220}
+  - name: warden_Frame_33
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 4
+      width: 11
+      height: 14
+    spriteID: 4b9acb27b11df674c8aaefbaf47a7130
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 4}
+  - name: warden_Frame_34
+    originalName: 
+    pivot: {x: 0.75, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 26
+      width: 8
+      height: 14
+    spriteID: b1010da1cbdecda48b9725c4f8c5ba38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 26}
+  - name: warden_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 48
+      width: 8
+      height: 14
+    spriteID: 146386c935d33c045abdd5983806ea5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 48}
+  - name: warden_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: -0.06666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 16
+      height: 15
+    spriteID: 5053c98331d6e1045b205e9d98ae5d19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: warden_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 219
+      width: 14
+      height: 14
+    spriteID: 939af7fe1f922ec42aeac8dc714cc27b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 219}
+  - name: warden_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 4
+      width: 14
+      height: 14
+    spriteID: dc58b42c0c6e0684c99b93cc3112efc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 4}
+  - name: warden_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 171
+      width: 14
+      height: 16
+    spriteID: 4ee28e3a30edb0c4dbe0bf0e559498e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 171}
+  - name: warden_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 16
+      height: 16
+    spriteID: 9fe41e7716eb1474ba9773a2918e1b4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: warden_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 28
+      width: 16
+      height: 16
+    spriteID: 5f40d416568fa724486a3c334e0ec42f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 28}
+  - name: warden_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 52
+      width: 16
+      height: 16
+    spriteID: 60f0777f8f28dfc49bfb95789197be85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 52}
+  - name: warden_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 16
+      height: 16
+    spriteID: 6b1e983773ae3d04594d1bb47088ad5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: warden_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 100
+      width: 16
+      height: 16
+    spriteID: bf27e6c79e282614bb4cd161035fcb7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 100}
+  - name: warden_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 16
+      height: 16
+    spriteID: 579c550633df7f346b6584403b166576
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 124}
+  - name: warden_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 195
+      width: 14
+      height: 16
+    spriteID: 82dabd6acf985ad478a773503427f458
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 195}
+  - name: warden_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -0.14285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 70
+      width: 8
+      height: 14
+    spriteID: e20c0d1e225739b469e768cb5c476b6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 70}
+  - name: warden_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 92
+      width: 8
+      height: 14
+    spriteID: 932ef26e6ae32f144b50e8b508c3e558
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 92}
+  - name: warden_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 69
+      y: 114
+      width: 8
+      height: 14
+    spriteID: 5821ea1b44fee3242a11d6f21155b60c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 69, y: 114}
+  - name: warden_Frame_50
+    originalName: 
+    pivot: {x: 0.4, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 50
+      y: 70
+      width: 10
+      height: 14
+    spriteID: 46882e394f128884c81804e3759da043
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 50, y: 70}
+  - name: warden_Frame_51
+    originalName: 
+    pivot: {x: 0.33333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 114
+      width: 12
+      height: 14
+    spriteID: 56c6046b8d0a38f41bc44f359db84218
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 114}
+  - name: warden_Frame_52
+    originalName: 
+    pivot: {x: 0.3846154, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 156
+      width: 13
+      height: 12
+    spriteID: 158738bd9e283df4f88a1f66abb9e020
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 156}
+  - name: warden_Frame_53
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 136
+      width: 14
+      height: 12
+    spriteID: b63bbcc9d3c615b4a8eb93d1a5098f55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 136}
+  - name: warden_Frame_54
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 28
+      y: 242
+      width: 14
+      height: 10
+    spriteID: d933abcde38fb04468d60f538ffc0888
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 28, y: 242}
+  - name: warden_Frame_55
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 241
+      width: 14
+      height: 8
+    spriteID: a641dcffc90628a45b258a8eaeb0b5a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 241}
+  - name: warden_Frame_56
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 4
+      width: 15
+      height: 5
+    spriteID: 48001ada31d64644a8007cf5582aac89
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 4}
+  - name: warden_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 4
+      width: 16
+      height: 4
+    spriteID: dbbf5dd740f806a498824d176993efe3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 4}
+  - name: warden_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 108
+      y: 16
+      width: 16
+      height: 3
+    spriteID: 60ada51b7ed8c3e44be034ca5e029a96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 108, y: 16}
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1426779953
+    name: warden
+    layerFlags: 0
+    layerType: 0
+    cells:
+    - name: warden_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 5fbadce9fbd6e33489ce30b8f67e785c
+    - name: warden_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 4
+        y: 2
+        width: 8
+        height: 14
+      spriteId: 55a3caec0ba36474fa130736d5666746
+    - name: warden_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 2
+        y: 1
+        width: 10
+        height: 14
+      spriteId: a63751d6e4eb9854faab9745a0c88b07
+    - name: warden_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 2
+        y: 2
+        width: 10
+        height: 14
+      spriteId: 6bc23dafbcdc7b449a8ae46bd992320f
+    - name: warden_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: f4d60bf806cef1f4a8f1359de08165c2
+    - name: warden_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: fb9fe6dbdf8d7fb4dbe4bafc5115ab4d
+    - name: warden_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 4
+        y: 1
+        width: 7
+        height: 14
+      spriteId: 36a98b7c0af2ceb469b3a4e5ea80f659
+    - name: warden_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 4
+        y: 1
+        width: 6
+        height: 14
+      spriteId: 01c57b0508d6c244e8f38bae3b9fd158
+    - name: warden_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 4
+        y: 1
+        width: 5
+        height: 14
+      spriteId: 61194dfddcfe2ae4b8973a93117f5409
+    - name: warden_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 4
+        y: 1
+        width: 4
+        height: 14
+      spriteId: 927f89b7e19fb584cbeec36a04ae8b86
+    - name: warden_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 4
+        y: 1
+        width: 3
+        height: 14
+      spriteId: 7fc791b33f73a934f839fc1cf46e12c9
+    - name: warden_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 4
+        y: 2
+        width: 2
+        height: 12
+      spriteId: ecc4d9fce6c4dc3438ff0b2402d5079b
+    - name: warden_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 4
+        y: 2
+        width: 1
+        height: 5
+      spriteId: 85efea9a316f8f142a685d6c943195b2
+    - name: warden_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 11
+        y: 1
+        width: 1
+        height: 5
+      spriteId: 79edac32ab9294a439ee7a19e4c2cbfa
+    - name: warden_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 10
+        y: 1
+        width: 2
+        height: 12
+      spriteId: 0529986c99af2ce4cb3a8bf3f409d15c
+    - name: warden_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 9
+        y: 1
+        width: 3
+        height: 12
+      spriteId: 9015cbcd6a8ef874589aa4f50ddaf04f
+    - name: warden_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 8
+        y: 1
+        width: 4
+        height: 14
+      spriteId: 9927a6d8b554d1e4a8a7b906b354b1e5
+    - name: warden_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 7
+        y: 1
+        width: 5
+        height: 14
+      spriteId: 1c7fabf28ec0c4241a925bcee1bbbeb8
+    - name: warden_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 1
+        width: 6
+        height: 14
+      spriteId: 14fdf0a189906c24aa969826a28721f3
+    - name: warden_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 1
+        width: 7
+        height: 14
+      spriteId: 2844d7fc176b09e4aadeb618c3fbb50b
+    - name: warden_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 1a52699b32f239d4b8666b3f80e7bc8f
+    - name: warden_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 693807006c1764548a225d0b9c15ec3e
+    - name: warden_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 2418a333e7389d544b89d50f9403e8cf
+    - name: warden_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 2
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 984689041ed8d144087bb3ab17f9d3a3
+    - name: warden_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 2
+        y: 1
+        width: 13
+        height: 14
+      spriteId: a3e7935e908a1bc4f9b9abcbd89b737d
+    - name: warden_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 2
+        y: 1
+        width: 12
+        height: 14
+      spriteId: a3f3d800f6c3476459da0a0defb0298f
+    - name: warden_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 2
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 9742be4baaaa7304c8d68af247034eab
+    - name: warden_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 2
+        y: 1
+        width: 13
+        height: 14
+      spriteId: c04fc6509437bdc4bbe0055de60f99bc
+    - name: warden_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 2
+        y: 1
+        width: 13
+        height: 14
+      spriteId: 4f75ddb36968fee43a78b2e249c4749b
+    - name: warden_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 2
+        y: 1
+        width: 11
+        height: 14
+      spriteId: bbe24a447990c70458d7066116443674
+    - name: warden_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 2
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 487604141fa946441a0f5bf062b57862
+    - name: warden_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 2
+        y: 1
+        width: 11
+        height: 14
+      spriteId: 4b9acb27b11df674c8aaefbaf47a7130
+    - name: warden_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 2
+        y: 1
+        width: 8
+        height: 14
+      spriteId: b1010da1cbdecda48b9725c4f8c5ba38
+    - name: warden_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 146386c935d33c045abdd5983806ea5c
+    - name: warden_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 1
+        width: 16
+        height: 15
+      spriteId: 5053c98331d6e1045b205e9d98ae5d19
+    - name: warden_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 1
+        y: 1
+        width: 14
+        height: 14
+      spriteId: 939af7fe1f922ec42aeac8dc714cc27b
+    - name: warden_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 1
+        y: 1
+        width: 14
+        height: 14
+      spriteId: dc58b42c0c6e0684c99b93cc3112efc8
+    - name: warden_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 1
+        y: 0
+        width: 14
+        height: 16
+      spriteId: 4ee28e3a30edb0c4dbe0bf0e559498e1
+    - name: warden_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: 9fe41e7716eb1474ba9773a2918e1b4f
+    - name: warden_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: 5f40d416568fa724486a3c334e0ec42f
+    - name: warden_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: 60f0777f8f28dfc49bfb95789197be85
+    - name: warden_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: 6b1e983773ae3d04594d1bb47088ad5b
+    - name: warden_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: bf27e6c79e282614bb4cd161035fcb7f
+    - name: warden_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      spriteId: 579c550633df7f346b6584403b166576
+    - name: warden_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 1
+        y: 0
+        width: 14
+        height: 16
+      spriteId: 82dabd6acf985ad478a773503427f458
+    - name: warden_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 4
+        y: 2
+        width: 8
+        height: 14
+      spriteId: e20c0d1e225739b469e768cb5c476b6e
+    - name: warden_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 932ef26e6ae32f144b50e8b508c3e558
+    - name: warden_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 4
+        y: 1
+        width: 8
+        height: 14
+      spriteId: 5821ea1b44fee3242a11d6f21155b60c
+    - name: warden_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 4
+        y: 1
+        width: 10
+        height: 14
+      spriteId: 46882e394f128884c81804e3759da043
+    - name: warden_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 4
+        y: 0
+        width: 12
+        height: 14
+      spriteId: 56c6046b8d0a38f41bc44f359db84218
+    - name: warden_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 3
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 158738bd9e283df4f88a1f66abb9e020
+    - name: warden_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 12
+      spriteId: b63bbcc9d3c615b4a8eb93d1a5098f55
+    - name: warden_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 10
+      spriteId: d933abcde38fb04468d60f538ffc0888
+    - name: warden_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 2
+        y: 0
+        width: 14
+        height: 8
+      spriteId: a641dcffc90628a45b258a8eaeb0b5a8
+    - name: warden_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 1
+        y: 0
+        width: 15
+        height: 5
+      spriteId: 48001ada31d64644a8007cf5582aac89
+    - name: warden_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 4
+      spriteId: dbbf5dd740f806a498824d176993efe3
+    - name: warden_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: 0
+        width: 16
+        height: 3
+      spriteId: 60ada51b7ed8c3e44be034ca5e029a96
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 

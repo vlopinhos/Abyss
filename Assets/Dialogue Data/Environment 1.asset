@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7cea669d3d11ce409c2cd38b005c822, type: 3}
+  m_Name: Environment 1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Player: Minha mem\xF3ria aos poucos se recupera, consigo ter mais clareza dos
+    c\xF4modos, eu com certeza morei aqui\u2026"
+  - "Mas quem s\xE3o essas pessoas?"
+  - "Escuto vozes o tempo inteiro mas n\xE3o as reconhe\xE7o, uma crian\xE7a grita
+    desesperadamente e algumas vezes escuto bem baixo\u2026\n"
+  - "\u201CMam\xE3e? Papai? Preciso de ajuda\u201D"
