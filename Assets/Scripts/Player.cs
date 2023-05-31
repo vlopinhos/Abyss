@@ -81,6 +81,7 @@ public class Player : MonoBehaviour
         {
             anim.SetTrigger("death");
             SceneManager.LoadScene("Lose");
+            PlayerManager.playersLife = maxHealth;
         }
     }   
 }
