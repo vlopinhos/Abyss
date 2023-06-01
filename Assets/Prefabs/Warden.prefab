@@ -127,7 +127,7 @@ MonoBehaviour:
   attack: 5
   cooldown: 3
   nextScene: Env3
-  dropChance: 0.3
+  dropChance: 0
   heartPrefab: {fileID: 1616812919210084166, guid: db0d36cf8c014c2489d3a3863d0f64ee, type: 3}
 --- !u!58 &6319584648580640914
 CircleCollider2D:

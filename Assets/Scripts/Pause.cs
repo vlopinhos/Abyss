@@ -1,7 +1,10 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Pause : MonoBehaviour
 {
+    public GameObject pauseMenu;
+
     private bool isPaused = false;
     private AudioSource[] allAudioSources;
     private Animator[] allAnimators;
@@ -42,6 +45,8 @@ public class Pause : MonoBehaviour
         {
             animator.speed = 0f;
         }
+
+        pauseMenu.SetActive(true);
     }
 
     private void ResumeGame()
@@ -57,5 +62,7 @@ public class Pause : MonoBehaviour
         {
             animator.speed = 1f;
         }
+
+        pauseMenu.SetActive(false);
     }
 }
